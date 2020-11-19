@@ -1,0 +1,154 @@
+body{}
+.header{}
+.login{}
+.login h1{
+    background: black;
+    color: #fff;
+    text-align: center;
+    padding: 17px;
+    text-transform: capitalize;
+    font-size: 42px;
+}
+.menu{}
+.menu nav{
+    margin-top: -9px;
+}
+.menu nav ul{
+    margin-left: 157px;
+}
+.menu nav ul li{
+    display: inline;
+}
+.menu nav ul li a{
+    background: black;
+    color: #fff;
+    padding: 18px 82px;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 16px;
+}
+
+.banner{
+    background: orange;
+    padding: 60px;
+    margin-top: 24px;
+    text-align: center;
+}
+.banner h1{
+    background: black;
+    color: #fff;
+    /* padding: 17px; */
+    margin-top: -28px;
+    text-transform: capitalize;
+    font-size: 39px;
+    width: 332px;
+    margin: auto;
+    padding: 16px;
+    margin-top: -41px;
+}
+.banner p{
+    text-align: justify;
+    font-size: 38px;
+}
+.banner button,.right button{
+    background: black;
+    color: #fff;
+    width: 257px;
+    padding: 13px;
+    text-transform: capitalize;
+    font-size: 32px;
+    margin-bottom: -16px;
+    border: none;
+    outline: none;
+    border-radius: 27px;
+    box-shadow: 2px 11px 16px black;
+}
+.top{
+    width: 100%;
+    background: deepskyblue;
+    margin-top: 12px;
+    display: inline-flex;
+}
+.left{}
+.left img{}
+.right{
+    width: 50%;
+    text-align: center;
+}
+.right h1{
+    width: 297px;
+    background: black;
+    color: #fff;
+    margin: auton;
+    padding: 16px;
+    margin: auto;
+    text-transform: capitalize;
+    font-size: 40px;
+    margin-top: 19px;
+    border-radius: 27px;
+    box-shadow: 5px 6px 12px midnightblue;
+}
+.right p{
+    text-align: justify;
+    padding: 12px 110px;
+}
+.right button{}
+.card_part{
+    display: inline-flex;
+}
+.card{
+    background: skyblue;
+    width: 300px;
+    text-align: center;
+    margin-bottom: 14px;
+    margin-right: 10px;;
+}
+.card img{
+    width: 300px;
+}
+.card h1{
+    width: 250px;
+    background: black;
+    color: #fff;
+    padding: 11px;
+    margin: auto;
+    text-transform: capitalize;
+    font-size: 35px;
+    border-radius: 13px;
+    box-shadow: 8px 6px 6px black;
+}
+.card h3{
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.card p{
+    text-align: justify;
+    padding: 18px 17px;
+}
+
+.card button{
+    background: black;
+    color: #fff;
+    width:200px;
+    padding:12px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+    font-size: 25px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+
+   
+}
+.client{}
+.client h1{}
+.client p{}
+.footer{}
+.footer p{}
+.footer p a{}
+
